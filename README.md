@@ -203,3 +203,152 @@
           <li>Add a complex carb to your post‑workout meal (oats, rice, potato).</li>
           <li>Include a palm‑sized protein serving at lunch and dinner.</li>
         </ul>`,
+      buddy:"Leg strength now means confidence later when you’re running on grass and tackling group drills."
+    },
+    {
+      d:6, phase:"Week 1 · Foundation (Form & Mobility)",
+      training:`
+        <p><strong>Upper Body Focus</strong></p>
+        <ul>
+          <li>3–4 rounds: push‑ups (wall/knees/full), tricep dips on a chair, superman holds, side planks.</li>
+          <li>Rest as needed, prioritise form.</li>
+        </ul>`,
+      nutrition:`
+        <p><strong>Focus:</strong> Protein coverage.</p>
+        <ul>
+          <li>Get a source of lean protein at each meal (eggs, poultry, fish, tofu, yogurt).</li>
+        </ul>`,
+      buddy:"These upper‑body sessions will make Bootcamp UK’s partner work and equipment sessions feel achievable, not scary."
+    },
+    {
+      d:7, phase:"Week 1 · Foundation (Form & Mobility)",
+      training:`
+        <p><strong>Rest + Meal Prep</strong></p>
+        <ul>
+          <li>No formal workout – walk, stretch, breathe.</li>
+          <li>Spend ~2 hours prepping:
+            <ul>
+              <li>Cook proteins (chicken, tofu, eggs, etc.).</li>
+              <li>Cook complex carbs (rice, quinoa, potatoes).</li>
+              <li>Wash/chop veg for easy salads and snacks.</li>
+            </ul>
+          </li>
+        </ul>`,
+      nutrition:`
+        <p><strong>Focus:</strong> Prepare the week ahead.</p>
+        <ul>
+          <li>Prep at least 2–3 lunches and dinners in advance.</li>
+          <li>Stock snacks: fruit, nuts, chopped veg, hummus.</li>
+        </ul>`,
+      buddy:"You’re making it easier for ‘busy you’ to stay on track in Week 2. Meal prep beats willpower every time."
+    },
+
+    // WEEK 2 – HIIT & Endurance
+    {
+      d:8, phase:"Week 2 · HIIT & Endurance",
+      training:`
+        <p><strong>20‑Minute Full‑Body HIIT</strong></p>
+        <ul>
+          <li>40 sec work / 20 sec rest × 4 rounds of:
+            <ul>
+              <li>Jumping jacks or step jacks.</li>
+              <li>Squats or squat jumps.</li>
+              <li>Mountain climbers (hands on chair if needed).</li>
+              <li>Alternating lunges.</li>
+              <li>Bicycle crunches (or knee‑to‑chest crunches).</li>
+            </ul>
+          </li>
+        </ul>`,
+      nutrition:`
+        <p><strong>Focus:</strong> Carb timing for HIIT.</p>
+        <ul>
+          <li>Light carb snack 60–90 min before training.</li>
+          <li>Post‑workout: protein + complex carb.</li>
+        </ul>`,
+      buddy:"HIIT day! Work at a challenging but controlled pace. You’re training your lungs and legs for outdoor group sessions."
+    },
+    {
+      d:9, phase:"Week 2 · HIIT & Endurance",
+      training:`<p><strong>Active Recovery</strong> – 30 min easy walk or mobility.</p>`,
+      nutrition:`<p><strong>Focus:</strong> Hydration + veg. 2.5–3 L water, veg with at least 2 meals.</p>`,
+      buddy:"Recovery keeps HIIT effective. Think of today as maintenance for your engine, not a ‘day off’ from progress."
+    },
+    {
+      d:10, phase:"Week 2 · HIIT & Endurance",
+      training:`<p><strong>Lower Body HIIT – 20 min</strong> using squats, lunges, glute bridges, step‑ups in a 40/20 pattern.</p>`,
+      nutrition:`<p><strong>Focus:</strong> Refuel legs with carbs + protein post‑session.</p>`,
+      buddy:"Lower‑body HIIT is preparing you for hills, sprints, and team drills. Steady effort beats all‑out burnout."
+    },
+    {
+      d:11, phase:"Week 2 · HIIT & Endurance",
+      training:`<p><strong>Upper Body Strength</strong> – slower tempo: push‑ups, rows (bands/household items), dips, shoulder taps.</p>`,
+      nutrition:`<p><strong>Focus:</strong> Protein throughout the day (3 main meals + 1 protein snack).</p>`,
+      buddy:"Controlled strength work today means better posture and fewer niggles when you’re throwing around kettlebells and ropes later."
+    },
+    {
+      d:12, phase:"Week 2 · HIIT & Endurance",
+      training:`<p><strong>Core & Cardio HIIT – 20 min</strong> mixing planks, dead bugs, high‑knee marches, Russian twists, mountain climbers.</p>`,
+      nutrition:`<p><strong>Focus:</strong> Balanced plates again – half veg, quarter protein, quarter complex carbs, plus healthy fats.</p>`,
+      buddy:"Core + cardio together builds resilience. You’re choosing short discomfort now for long‑term confidence."
+    },
+    {
+      d:13, phase:"Week 2 · HIIT & Endurance",
+      training:`<p><strong>Long Walk or Light Jog – 45 min</strong> – brisk walk or gentle jog/walk intervals.</p>`,
+      nutrition:`<p><strong>Focus:</strong> Steady energy, avoid huge sugar spikes; pair carbs with protein or fat.</p>`,
+      buddy:"Classic bootcamp‑prep cardio. Imagine yourself on the field, keeping up with the group."
+    },
+    {
+      d:14, phase:"Week 2 · HIIT & Endurance",
+      training:`<p><strong>Rest + Review</strong> – no workout. Look back at Weeks 1–2 and note wins.</p>`,
+      nutrition:`<p><strong>Focus:</strong> Keep your new eating rhythm over the weekend (not ‘all or nothing’).</p>`,
+      buddy:"Two weeks done. Most people stop here. You’re halfway and still moving – that’s massive."
+    },
+
+    // WEEK 3 – Consistency & Mental Game (structure same as week 2, gently progressed)
+    {
+      d:15, phase:"Week 3 · Consistency & Mindset",
+      training:`<p><strong>Full‑Body HIIT</strong> – repeat Day 8, aim for 1–2 more reps per interval or slightly shorter rests.</p>`,
+      nutrition:`<p><strong>Focus:</strong> Same HIIT fueling, but keep portions moderate and steady.</p>`,
+      buddy:"Week 3 is where motivation dips. Showing up today is how you prove to yourself you’re different."
+    },
+    {
+      d:16, phase:"Week 3 · Consistency & Mindset",
+      training:`<p><strong>Active Recovery</strong> – as Day 9. Use it to reset, not to coast.</p>`,
+      nutrition:`<p><strong>Focus:</strong> Hydration and veg on autopilot.</p>`,
+      buddy:"Gentle days still count as ‘I did something’. That’s how habits are built."
+    },
+    {
+      d:17, phase:"Week 3 · Consistency & Mindset",
+      training:`<p><strong>Lower Body HIIT</strong> – as Day 10, slightly more effort (or 1 extra round if you feel ready).</p>`,
+      nutrition:`<p><strong>Focus:</strong> Legs love carbs + protein post‑session.</p>`,
+      buddy:"Your legs might complain, but they’re getting stronger. You’re earning ease later."
+    },
+    {
+      d:18, phase:"Week 3 · Consistency & Mindset",
+      training:`<p><strong>Upper Body Strength</strong> – as Day 11, aim for 1–2 extra good‑form reps per set.</p>`,
+      nutrition:`<p><strong>Focus:</strong> Spread protein evenly again.</p>`,
+      buddy:"Today’s small progress is tomorrow’s ability to smash outdoor sessions with confidence."
+    },
+    {
+      d:19, phase:"Week 3 · Consistency & Mindset",
+      training:`<p><strong>Core & Cardio HIIT</strong> – as Day 12, push effort a little without losing form.</p>`,
+      nutrition:`<p><strong>Focus:</strong> Balanced plates, minimal ultra‑processed snacks.</p>`,
+      buddy:"Your mind will want to quit before your body needs to. Notice that and keep going safely."
+    },
+    {
+      d:20, phase:"Week 3 · Consistency & Mindset",
+      training:`<p><strong>Long Walk / Light Jog</strong> – as Day 13, see if it feels slightly easier or you can go a bit further.</p>`,
+      nutrition:`<p><strong>Focus:</strong> Same steady‑energy approach; don’t ‘reward’ with an all‑day binge.</p>`,
+      buddy:"You’re building the version of you who sees outdoor sessions as normal, not extreme."
+    },
+    {
+      d:21, phase:"Week 3 · Consistency & Mindset",
+      training:`<p><strong>Rest + Reflection</strong> – list 3 non‑scale victories from the last 3 weeks.</p>`,
+      nutrition:`<p><strong>Focus:</strong> Calm, consistent eating, no drama around food.</p>`,
+      buddy:"Three weeks in. This is where identity starts to shift from ‘trying to get fit’ to ‘someone who trains’."
+    },
+
+    // WEEK 4 – Bootcamp Prep & Evolution
+    {
+      d:22, phase:"Week 4 · Bootcamp Prep",
+      training:`<p><strong>Bootcamp‑Style Circuit – 25 min AMRAP</strong><br>15 squats · 10 push‑ups · 20 walking
